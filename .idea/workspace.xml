@@ -5,30 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6132098-fc2e-4675-8787-e06d8bff5275" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/gfg/JBDL_70_MINOR1/exception/UserException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/gfg/JBDL_70_MINOR1/minor1Configuration/CommonConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/gfg/JBDL_70_MINOR1/minor1Configuration/RedisConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/gfg/JBDL_70_MINOR1/minor1Configuration/SecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/gfg/JBDL_70_MINOR1/repository/UserCacheRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/gfg/JBDL_70_MINOR1/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gfg/JBDL_70_MINOR1/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gfg/JBDL_70_MINOR1/dto/UserRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gfg/JBDL_70_MINOR1/dto/UserRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gfg/JBDL_70_MINOR1/exception/ControllerExceptionAdvice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gfg/JBDL_70_MINOR1/exception/ControllerExceptionAdvice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gfg/JBDL_70_MINOR1/model/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gfg/JBDL_70_MINOR1/model/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gfg/JBDL_70_MINOR1/model/Txn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gfg/JBDL_70_MINOR1/model/Txn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gfg/JBDL_70_MINOR1/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gfg/JBDL_70_MINOR1/model/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gfg/JBDL_70_MINOR1/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gfg/JBDL_70_MINOR1/repository/UserRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/gfg/JBDL_70_MINOR1/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/gfg/JBDL_70_MINOR1/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gfg/JBDL_70_MINOR1/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/gfg/JBDL_70_MINOR1/controller/UserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gfg/JBDL_70_MINOR1/dto/UserRequest$UserRequestBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/gfg/JBDL_70_MINOR1/dto/UserRequest$UserRequestBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gfg/JBDL_70_MINOR1/dto/UserRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/gfg/JBDL_70_MINOR1/dto/UserRequest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gfg/JBDL_70_MINOR1/model/User$UserBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/gfg/JBDL_70_MINOR1/model/User$UserBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gfg/JBDL_70_MINOR1/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/gfg/JBDL_70_MINOR1/model/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gfg/JBDL_70_MINOR1/repository/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/gfg/JBDL_70_MINOR1/repository/UserRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/gfg/JBDL_70_MINOR1/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/gfg/JBDL_70_MINOR1/service/UserService.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "MeghanaxRaikar"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/MeghanaxRaikar/Library-Management.git",
+    "accountId": "4d8f5b6f-2f2e-40f2-8ed7-2614ccc27522"
+  }
+}]]></component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -58,6 +48,7 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2gzydEtgvxqxlL6bDqWGLpSE6f3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -80,6 +71,7 @@
     "JUnit.TestTxnService.testGetUserFromDBWhenNoException.executor": "Run",
     "JUnit.TestTxnService.testReturnBook.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/kajalglotra/Downloads/JBDL-70-MINOR1",
     "project.structure.last.edited": "SDKs",
